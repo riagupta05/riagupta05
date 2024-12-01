@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ria Gupta
-- 👀 I’m interested in coding and project based learnings
-- 🌱 I’m currently learning java
+- 🎧 I’m interested in coding and project based learnings
+- 🌱 I’m currently learning java & python
 - 📫 How to reach me; through my e-mail id: riagupta031105@gmail.com
 - linkedin:http://linkedin.com/in/ria-gupta-b295a7303
